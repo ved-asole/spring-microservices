@@ -6,6 +6,8 @@
         <option value="$PROJECT_DIR$/limits-service/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/currency-exchange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/pom.xml" />
       </list>
     </option>
   </component>
